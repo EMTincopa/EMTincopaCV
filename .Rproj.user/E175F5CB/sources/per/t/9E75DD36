@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581728505748.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "335945554",
+    "id" : "9E75DD36",
+    "lastKnownWriteTime" : 1581728581,
+    "last_content_update" : 1581728581369,
+    "path" : "D:/MyNewPersonalBlog/EMTincopaCV/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "3,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
