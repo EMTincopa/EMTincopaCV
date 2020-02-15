@@ -185,11 +185,19 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "Desarrollo de matrices para planes de mejora y participación en elaboración de política de Detección de Riesgo Suicida."
 
+
+
         [[params.experience.list]]
         title = "Practicante administrativo"
         dates = "2018-I"
         company = "G&C S.R.L. - Salud y Desarrollo"
-        details = "Apoyo administrativo al área de proyectos y administración. Elaboración y organización de base de datos para campañas de salud en Aruntaya, Moquegua.Gestión del Aula Virtual para curso MOOC: Supervisión de la Implementación Social de Proyectos de Agua y Saneamiento para Zonas Rurales."
+        details = "Apoyo administrativo al área de proyectos y administración."
+        [[params.experience.list.items]]
+        details = "Elaboración y organización de base de datos para campañas de salud en Aruntaya, Moquegua."
+        [[params.experience.list.items]]
+        details = "Gestión del Aula Virtual para curso MOOC: Supervisión de la Implementación Social de Proyectos de Agua y Saneamiento para Zonas Rurales."
+
+
 
         [[params.experience.list]]
         title = "Research Assistant"
