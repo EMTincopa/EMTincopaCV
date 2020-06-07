@@ -173,9 +173,9 @@ theme = "hugo-devresume-theme"
         company = "Roche Farma (Perú)"
         details = "Actively participate in the responses to all requests for bibliographic searches made by health professionals, medical managers, MSLs, medical representatives and external clients through the applicable computerized medical system in a balanced, accurate, ethical and timely manner. Promote constant support in the safe and effective use of Roche products, as well as support the Pharmacovigilance area in matters of medical information and report adverse events and / or quality complaints related to requests for information in time and quality appropriate to the area Pharmacovigilance and / or Quality."
         [[params.experience.list.items]]
-        details = "Management of inquiries via email, Whatsapp application."
+        details = "Management of inquiries via email and Whatsapp application."
         [[params.experience.list.items]]
-        details = "Non-promotional scientific information material approvals: Information on events, conferences, webinars, e-mail marketing, content update on the Roche Dialogo official website for medical professionals."
+        details = "Non-promotional scientific information material approvals: Information abouts events, conferences, webinars, e-mail marketing, content update on the Roche Dialogo official website for medical professionals."
         [[params.experience.list.items]]
         details = "Review of quality complaints or adverse events in consultations."
         [[params.experience.list.items]]
