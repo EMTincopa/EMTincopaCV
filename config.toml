@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Medical Information | Dataviz Specialist"
+        tagline = "Medical Information | Dataviz & Digital Entrepreneur"
         avatar = "EMT.png"
 
 
@@ -71,20 +71,24 @@ theme = "hugo-devresume-theme"
         [[params.skills.list.items]]
         details = "Dataviz in health/OR in health"
         [[params.skills.list.items]]
-        details = "Gestión y manipulación de bases de datos"
+        details = "Database management and manipulation"
         [[params.skills.list.items]]
-        details = "Diseño infográfico y reportería"
+        details = "Infographic design and reporting"
+        [[params.skills.list.items]]
+        details = "Front-end developer (in progress)"
+        [[params.skills.list.items]]
+        details = "Javascript/HTML (in progress)"
 
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Pensamiento analítico"
+        details = "Analytical thinking"
         [[params.skills.list.items]]
-        details = "Trabajo en equipo"
+        details = "Teamwork"
         [[params.skills.list.items]]
-        details = "Solución de problemas"
+        details = "Problem solving"
         [[params.skills.list.items]]
-        details = "Comunicación efectiva"
+        details = "Effective communication"
 
 
 
@@ -97,11 +101,11 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.education.list]]
-        degree = "Egresado en Administración en Salud"
+        degree = "Graduated in Health Administration"
         university = "Universidad Peruana Cayetano Heredia"
         dates = "2014 - 2019"
         [[params.education.list]]
-        degree = "Bachillerato, Biología"
+        degree = "Bachelor, Biology"
         university = "Universidad Ricardo Palma"
         dates = "2016 - 2021"
 
@@ -151,7 +155,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "He ganado experiencia en el sector de la consultoría medioambiental, pero en los últimos años me he enfocado en el sector salud, habiendo realizado una pasantía en el área de Calidad y Mejora Continua de una de las mejores clínicas de mi país (Clínica Internacional) y ejerciendo en estos momentos el puesto de Medical Information en Roche Farma (Perú). Actualmente, me encuentro en el constante aprendizaje de la gestión de data y visualización de la misma, por medio de lenguajes de programación y otras herramientas de diseño. Los productos finales son visualizaciones de alto impacto para llevar información a la población, priorizando temas de salud pero sin descartar otras áreas. Comprendo que es necesario en el campo de la salud el poder gestionar mejores bases de datos y visualizaciones para la óptima toma de decisiones por parte de las directivas y gerentes."
+        text = "I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector. At the moment I am constantly learning data management, visualization and development of digital strategies, through programming languages and other design tools. I understand that it is necessary in the field of health to be able to manage better databases and visualizations for optimal decision making in organizations."
 
 
 
@@ -167,37 +171,37 @@ theme = "hugo-devresume-theme"
         title = "Trainee Medical Information"
         dates = "2019 - Present"
         company = "Roche Farma (Perú)"
-        details = "Participar activamente en las respuestas a todas las solicitudes de búsquedas bibliográficas realizadas por profesionales de la salud, gerentes médicos, MSLs, representantes médicos y clientes externos por medio del sistema médico computarizado aplicable de forma equilibrada, precisa, ética y oportuna. Propiciar el apoyo constante en el uso seguro y eficaz de los productos Roche, como también dar soporte al área de Farmacovigilancia en temas de información médica y reportar eventos adversos y/o quejas de calidad relacionados a solicitudes de información en tiempo y calidad adecuados al área de Farmacovigilancia y/o Calidad."
+        details = "Actively participate in the responses to all requests for bibliographic searches made by health professionals, medical managers, MSLs, medical representatives and external clients through the applicable computerized medical system in a balanced, accurate, ethical and timely manner. Promote constant support in the safe and effective use of Roche products, as well as support the Pharmacovigilance area in matters of medical information and report adverse events and / or quality complaints related to requests for information in time and quality appropriate to the area Pharmacovigilance and / or Quality."
         [[params.experience.list.items]]
-        details = "Gestión de consultas vía correo electrónico."
+        details = "Management of inquiries via email, Whatsapp application."
         [[params.experience.list.items]]
-        details = "Aprobaciones de materiales de información científica no promocional."
+        details = "Non-promotional scientific information material approvals: Information on events, conferences, webinars, e-mail marketing, content update on the Roche Dialogo official website for medical professionals."
         [[params.experience.list.items]]
-        details = "Revisión sobre quejas de calidad o eventos adversos en consultas."
+        details = "Review of quality complaints or adverse events in consultations."
         [[params.experience.list.items]]
-        details = "Revisión de la base de datos de consultas."
+        details = "Review of the database of queries and analysis of information generated by BOT."
 
         [[params.experience.list]]
-        title = "Pasante de Calidad"
+        title = "Intern - Quality and Process Layout"
         dates = "2018-II"
         company = "Clínica Internacional"
-        details = "Apoyo en el área de Mejora Continua de la Calidad de la dirección de Calidad y Seguridad del Paciente. Principalmente realicé búsquedas y gestión bibliográfica de normativas de estándares e indicadores de calidad en salud así como también apoyar constantemente en auditorías a las unidades de servicio de la Clínica Internacional en ambas sedes (Lima Centro y San Borja)."
+        details = "Support in the Continuous Quality Improvement area of the Patient Quality and Safety department. Mainly I carried out searches and bibliographic management of norms of standards and indicators of quality in health as well as constantly supporting audits of the service units of the International Clinic in both locations (Lima Centro and San Borja)."
         [[params.experience.list.items]]
-        details = "Colaboración en talleres de Capacitación y de trazados de procesos."
+        details = "Collaboration in Training workshops and process layouts."
         [[params.experience.list.items]]
-        details = "Desarrollo de matrices para planes de mejora y participación en elaboración de política de Detección de Riesgo Suicida."
+        details = "Development of matrices for improvement plans and participation in the elaboration of a Suicidal Risk Detection policy."
 
 
 
         [[params.experience.list]]
-        title = "Practicante administrativo"
+        title = "Intern - Project Management."
         dates = "2018-I"
         company = "G&C S.R.L. - Salud y Desarrollo"
-        details = "Apoyo administrativo al área de proyectos y administración."
+        details = "Administrative support to the projects and administration area."
         [[params.experience.list.items]]
-        details = "Elaboración y organización de base de datos para campañas de salud en Aruntaya, Moquegua."
+        details = "Preparation and organization of a database for health campaigns in Aruntaya, Moquegua."
         [[params.experience.list.items]]
-        details = "Gestión del Aula Virtual para curso MOOC: Supervisión de la Implementación Social de Proyectos de Agua y Saneamiento para Zonas Rurales."
+        details = "Management of the Virtual Classroom for MOOC course: Supervision of the Social Implementation of Water and Sanitation Projects for Rural Areas."
 
 
 
@@ -207,31 +211,31 @@ theme = "hugo-devresume-theme"
         company = "UPCH - Lab. 109, Botánica Aplicada"
         details = "Colaboración en estudios de investigación botánica y mantenimiento de la muestras botánicas del laboratorio de botánca aplicada en la Universidad Peruana Cayetano Heredia, Laboratorios de Investigación y Desarrollo."
         [[params.experience.list.items]]
-        details = "Secado, prensado, montaje y registro de muestras botánicas de carácter medicinal y de importancia etnobotánica."
+        details = "Drying, pressing, assembly and registration of botanical samples of medicinal character and ethnobotanical importance."
         [[params.experience.list.items]]
-        details = "Clasificación taxonómica y sistemática de plantas peruanas."
+        details = "Taxonomic and systematic classification of Peruvian plants."
         [[params.experience.list.items]]
-        details = "Desarrollo de base de datos botánica para el Herbario de Plantas Medicinales de la UPCH (HEPLAME) con la herramienta Access."
+        details = "Development of a botanical database for the UPCH Medicinal Herbarium (HEPLAME) with the Access tool."
 
         [[params.experience.list]]
-        title = "Asistente de campo"
+        title = "Field assistant"
         dates = "2015"
         company = "CINYDE S.A.C."
-        details = "Asistente de campo para el componente Flora. Estudio de Impacto Ambiental detallado (EIAd) del Proyecto Central Térmica Atocongo de 136 MW y Línea de Transmisión de 60 KV."
+        details = "Field assistant for the Flora component. Detailed Environmental Impact Study (EIAd) of the 136 MW Atocongo Thermal Power Plant Project and 60 KV Transmission Line."
         [[params.experience.list.items]]
-        details = "Planeamiento de monitoreo biológico de flora."
+        details = "Planning of biological monitoring of flora."
         [[params.experience.list.items]]
-        details = "Manejo de data e identificación de especies."
+        details = "Data management and species identification."
 
         [[params.experience.list]]
-        title = "Asistente de campo"
+        title = "Field assistant"
         dates = "2015"
         company = "RIVFLO S.A.C."
-        details = "Asistente de campo para el componente Flora. Declaración de Impacto Ambiental (DIA) del Proyecto Central de Generación Eléctrica Solar Rubí- ENEL GREEN POWER PERU S.A."
+        details = "Field assistant for the Flora component. Environmental Impact Statement (DIA) of the Rubí Solar Power Generation Project - ENEL GREEN POWER PERU S.A."
         [[params.experience.list.items]]
-        details = "Planeamiento de monitoreo biológico de flora."
+        details = "Planning of biological monitoring of flora."
         [[params.experience.list.items]]
-        details = "Manejo de data e identificación de especies."
+        details = "Data management and species identification."
 
 
 
@@ -246,9 +250,9 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.projects.list]]
-        title = "Project: Ensayos Clínicos - Una oportunidad para todos"
+        title = "Project: Clinical Trials - An opportunity for everyone"
         meta = "Roche Farma"
-        tagline = "Estrategia digital para mejorar el acceso a la información sobre ensayos clínicos en el Perú con el equipo CCO de Roche Farma Perú . Basada en el uso del Marketing Digital y de un Call Center para enlazar pacientes a los centros de investigación. Función principal: análisis de la data y diseño de reportes e infografías [Material digital para reportería y educacional]."
+        tagline = "Digital strategy to improve access to information on clinical trials in Peru with the Roche Farma Peru CCO team. Based on the use of Digital Marketing and a Call Center to link patients to research centers. Main function: data analysis and design of reports and infographics [Digital material for reporting and educational]."
 
 
 
