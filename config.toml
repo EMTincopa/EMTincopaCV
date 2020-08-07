@@ -208,8 +208,8 @@ theme = "hugo-devresume-theme"
         [[params.experience.list]]
         title = "Research Assistant"
         dates = "2014 - 2016"
-        company = "UPCH - Lab. 109, Botánica Aplicada"
-        details = "Colaboración en estudios de investigación botánica y mantenimiento de la muestras botánicas del laboratorio de botánca aplicada en la Universidad Peruana Cayetano Heredia, Laboratorios de Investigación y Desarrollo."
+        company = "UPCH - Lab. 109, Applied botany"
+        details = "Collaboration in botanical research studies and maintenance of botanical samples of the applied botanical laboratory at the Universidad Peruana Cayetano Heredia, Research and Development Laboratories (LID)."
         [[params.experience.list.items]]
         details = "Drying, pressing, assembly and registration of botanical samples of medicinal character and ethnobotanical importance."
         [[params.experience.list.items]]
