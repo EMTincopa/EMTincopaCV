@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Medical Information | Dataviz & Digital Entrepreneur"
+        tagline = "Medical Information | Data Visualization & Data Storyteller"
         avatar = "EMT.png"
 
 
@@ -107,7 +107,7 @@ theme = "hugo-devresume-theme"
         [[params.education.list]]
         degree = "Bachelor, Biology"
         university = "Universidad Ricardo Palma"
-        dates = "2016 - 2021"
+        dates = "2016 - 2022"
 
 
 
@@ -155,7 +155,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector. At the moment I am constantly learning data management, visualization and development of digital strategies, through programming languages and other design tools. I understand that it is necessary in the field of health to be able to manage better databases and visualizations for optimal decision making in organizations."
+        text = "I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector. At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations."
 
 
 
