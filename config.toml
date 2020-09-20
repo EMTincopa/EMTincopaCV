@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Medical Information | Data Visualization & Data Storyteller"
+        tagline = "Data Visualization & Data Storyteller"
         avatar = "EMT.png"
 
 
@@ -47,7 +47,7 @@ theme = "hugo-devresume-theme"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "https://emtincopa.github.io/"
+        text = "http://datavizadventure.com/"
 
 
 
@@ -67,7 +67,7 @@ theme = "hugo-devresume-theme"
         [[params.skills.list.items]]
         details = "Data Studio/Flourish"
         [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "PostgreSQL/SQL"
         [[params.skills.list.items]]
         details = "Dataviz in health/OR in health"
         [[params.skills.list.items]]
@@ -140,6 +140,8 @@ theme = "hugo-devresume-theme"
         [[params.interests.list]]
         name = "Coding"
         [[params.interests.list]]
+        name = "Technology"
+        [[params.interests.list]]
         name = "Videogames"
         [[params.interests.list]]
         name = "Watercolor Painting"
@@ -155,7 +157,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector. At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations."
+        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector."
 
 
 
@@ -269,7 +271,7 @@ theme = "hugo-devresume-theme"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Skateboarding, Coding, Videogames, Watercolor Painting, Dataviz & Design"
+        details = "Skateboarding, Coding, Technology, Videogames, Watercolor Painting, Dataviz & Design"
 
 
 
