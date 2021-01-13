@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Data Visualization & Data Storyteller"
+        tagline = "Data Visualization & Information Designr"
         avatar = "EMT.png"
 
 
@@ -48,6 +48,10 @@ theme = "hugo-devresume-theme"
         icon = "fas fa-globe"
         url = "#"
         text = "http://datavizadventure.com/"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "portfolio#"
+        text = "https://www.behance.net/enriquemendoza5"
 
 
 
@@ -120,7 +124,7 @@ theme = "hugo-devresume-theme"
 
         [[params.languages.list]]
         name = "English"
-        level = "Basic Professional"
+        level = "Advanced"
         [[params.languages.list]]
         name = "Spanish"
         level = "Native"
@@ -285,16 +289,20 @@ theme = "hugo-devresume-theme"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/EMTincopa"
-        title = "EMT"
+        url = "//github.com/DatavizAdventure"
+        title = "My github"
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/enrique-mendoza-tincopa-4b2a14173"
         title = "Enrique"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/EMTincopa"
-        title = "@EMTincopa"
+        url = "//twitter.com/DatavizAdventuR"
+        title = "@DatavizAdventuR"
+        [[params.social.list]]
+        icon = "fab fa-globe"
+        url = "//instagram.com/datavizadventure/"
+        title = "Instagram portfolio"
 
 
 
