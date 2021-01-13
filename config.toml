@@ -47,10 +47,10 @@ theme = "hugo-devresume-theme"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "http://datavizadventure.com/"
+        text = "https://datavizadventure.com/"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "portfolio#"
+        url = "#"
         text = "https://www.behance.net/enriquemendoza5"
 
 
