@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Data Visualization & Information Designr"
+        tagline = "Data Visualization & Information Designer"
         avatar = "EMT.png"
 
 
@@ -78,8 +78,6 @@ theme = "hugo-devresume-theme"
         details = "Database management and manipulation"
         [[params.skills.list.items]]
         details = "Infographic design and reporting"
-        [[params.skills.list.items]]
-        details = "Front-end developer (in progress)"
         [[params.skills.list.items]]
         details = "Javascript/HTML (in progress)"
 
@@ -172,10 +170,24 @@ theme = "hugo-devresume-theme"
 
     [params.experience]
         enable = true
+        
+        
+        [[params.experience.list]]
+        title = "Data visualization specialist"
+        dates = "2021 - Present"
+        company = "FUTURUM - Digital Agency"
+        [[params.experience.list.items]]
+        details = "Database management, extraction, cleaning and understanding."
+        [[params.experience.list.items]]
+        details = "Loading databases in repositories both offline and online."
+        [[params.experience.list.items]]
+        details = "Creation of interactive dashboards with Power BI."
+        [[params.experience.list.items]]
+        details = "Creation and proposal of relevant KPIs."
 
         [[params.experience.list]]
         title = "Trainee Medical Information"
-        dates = "2019 - Present"
+        dates = "2019 - 2020"
         company = "Roche Farma (Perú)"
         details = "Actively participate in the responses to all requests for bibliographic searches made by health professionals, medical managers, MSLs, medical representatives and external clients through the applicable computerized medical system in a balanced, accurate, ethical and timely manner. Promote constant support in the safe and effective use of Roche products, as well as support the Pharmacovigilance area in matters of medical information and report adverse events and / or quality complaints related to requests for information in time and quality appropriate to the area Pharmacovigilance and / or Quality."
         [[params.experience.list.items]]
